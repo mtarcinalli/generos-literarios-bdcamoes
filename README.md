@@ -14,3 +14,10 @@ BDCamões Corpus (Part II): https://hdl.handle.net/21.11129/0000-000D-F8AB-B
 BDCamões DependencyBank (Part I): https://hdl.handle.net/21.11129/0000-000D-F8AA-C
 
 BDCamões DependencyBank (Part II): https://hdl.handle.net/21.11129/0000-000D-F8A8-E
+
+Download
+
+Brazilian Portuguese LIWC 2007 Dictionary:
+
+http://143.107.183.175:21380/portlex/images/arquivos/liwc/LIWC2007_Portugues_win.dic.txt
+
