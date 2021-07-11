@@ -19,5 +19,4 @@ Download
 
 Brazilian Portuguese LIWC 2007 Dictionary:
 
-http://143.107.183.175:21380/portlex/images/arquivos/liwc/LIWC2007_Portugues_win.dic.txt
-
+http://143.107.183.175:21380/portlex/index.php/pt/projetos/liwc
